@@ -1,2 +1,2 @@
-# stsudentdb
+# studentdb
 Student database project
